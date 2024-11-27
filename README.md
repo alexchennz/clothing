@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Prerequisites
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ensure you have the following installed on your system:
+
+Node.js (v14 or later): Download and install Node.js from https://nodejs.org/.
+
+npm (comes with Node.js) or yarn: Ensure npm or yarn is available by running npm -v or yarn -v in your terminal.
+
+## Install Dependencies
+
+In the project directory, run the following command to install all dependencies:
+
+### `npm install`
 
 ## Available Scripts
 
